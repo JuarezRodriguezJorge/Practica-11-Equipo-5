@@ -1,0 +1,7 @@
+La programación orientada a objetos es un paradigma que organiza el código en clases y objetos.
+Cada objeto tiene atributos que describen su estado y métodos que definen su comportamiento.
+
+Java es un lenguaje muy utilizado para aprender estos conceptos porque es claro, robusto y funciona en cualquier sistema operativo.
+Esta práctica consiste en leer un archivo de texto, mostrar su contenido en una ventana y contar cuántas palabras contiene.
+
+
